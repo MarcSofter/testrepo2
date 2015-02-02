@@ -39,6 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="Class3.cs" />
     <Compile Include="ClassRename.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="EmptyClassRename2.cs" />
